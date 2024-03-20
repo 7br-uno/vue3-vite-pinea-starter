@@ -1,0 +1,43 @@
+{
+  "messages": {
+    "customize_your_experience_with_light_and_dark_themes": "Customize your experience with light and dark themes:",
+    "datas_updated_successfully": "Datas updated successfully",
+    "edit_email": "Edit email",
+    "e_mail_is_required": "E-mail is required",
+    "email_verification_sent": "Email verification sent",
+    "forgot_password": "Forgot password?",
+    "name_is_required": "Name is required",
+    "not_a_valid_email": "Not a valid email",
+    "please_check_your_email_to_confirm_your_account": "Please check your email to confirm your account.",
+    "select_the_language_you_would_like_to_use": "Select the language you would like to use:",
+    "something_whent_wrong_please_try_again_later": "Something whent wrong. Please try again later.",
+    "you_must_verify_your_email_to_access_the_account": "You must verify your email to access the account.",
+    "return_to_home_page": "Return to home page",
+    "password_is_required": "Password is required",
+    "password_must_contain_at_least_8_characters": "Password must contain at least 8 characters",
+    "password_recovery": "Password recovery",
+    "password_recovery_email_sent": "Password recovery email sent",
+    "save_password": "Save password",
+    "send_another_verification_email": "Send another verification email",
+    "the_page_you_are_trying_to_access_was_not_found": "The page you are trying to access was not found."
+  },
+  "words": {
+    "attention": "Attention",
+    "account": "Account",
+    "close": "Close",
+    "confirm": "Confirm",
+    "done": "Done",
+    "email": "Email",
+    "error": "Error",
+    "language": "Language",
+    "name": "Name",
+    "password": "Password",
+    "save": "Save",
+    "settings": "Settings",
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "sign_up": "Sign up",
+    "success": "Success",
+    "theme": "Theme"
+  }
+}

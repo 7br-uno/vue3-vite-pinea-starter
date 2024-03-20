@@ -1,0 +1,43 @@
+{
+  "messages": {
+    "customize_your_experience_with_light_and_dark_themes": "Personalize sua experiência com os modos claro ou escuro:",
+    "datas_updated_successfully": "Dados atualizados com sucesso",
+    "edit_email": "Alterar e-mail",
+    "e_mail_is_required": "E-mail é obrigatório",
+    "email_verification_sent": "Email de verificação enviado",
+    "forgot_password": "Esqueceu sua senha?",
+    "name_is_required": "Nome é obrigatório",
+    "not_a_valid_email": "Email inválido",
+    "please_check_your_email_to_confirm_your_account": "Por favor, verifique o e-mail para ativar sua conta.",
+    "select_the_language_you_would_like_to_use": "Selecione o idioma de sua preferência:",
+    "something_whent_wrong_please_try_again_later": "Algo deu errado. Por favor, tente novamente mais tarde.",
+    "you_must_verify_your_email_to_access_the_account": "Você deve verificar seu e-mail para acessar a conta.",
+    "return_to_home_page": "Returne à página inicial",
+    "password_is_required": "Senha é obrigatória",
+    "password_must_contain_at_least_8_characters": "A senha deve conter pelo menos 8 caracteres",
+    "password_recovery": "Recuperação de senha",
+    "password_recovery_email_sent": "E-mail de recuperação de senha enviado",
+    "save_password": "Salvar senha",
+    "send_another_verification_email": "Envie outro e-mail de verificação",
+    "the_page_you_are_trying_to_access_was_not_found": "A página que você está tentando acessar não foi encontrada."
+  },
+  "words": {
+    "attention": "Atenção",
+    "account": "Perfil",
+    "close": "Fechar",
+    "confirm": "Confirmar",
+    "done": "Pronto",
+    "email": "Email",
+    "error": "Erro",
+    "language": "Idioma",
+    "name": "Nome",
+    "password": "Senha",
+    "save": "Salvar",
+    "settings": "Configurações",
+    "sign_in": "Entrar",
+    "sign_out": "Sair",
+    "sign_up": "Cadastrar",
+    "success": "Successo",
+    "theme": "Tema"
+  }
+}
